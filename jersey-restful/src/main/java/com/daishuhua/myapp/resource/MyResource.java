@@ -1,4 +1,4 @@
-package com.daishuhua;
+package com.daishuhua.myapp.resource;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
